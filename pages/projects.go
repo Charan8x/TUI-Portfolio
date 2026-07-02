@@ -52,7 +52,7 @@ var projects = []project{
 			"Status bar with interactive key hints",
 			"Project detail view with focusable buttons",
 		},
-		githubURL: "",
+		githubURL: "https://github.com/Charan8x/TUI-Portfolio",
 		demoURL:   "",
 	},
 	{
