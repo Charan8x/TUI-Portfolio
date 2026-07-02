@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/eef2c57a-d58a-4c9a-b66c-86edb69edc3e
+
 # Sai Charan — Terminal Portfolio
 
 A full-screen terminal portfolio built with Go, inspired by terminal.shop's design philosophy. Accessible via SSH from anywhere in the world.
